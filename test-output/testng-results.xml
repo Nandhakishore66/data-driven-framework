@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="148008" started-at="2022-05-06T11:37:46Z" finished-at="2022-05-06T11:40:14Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="148008" started-at="2022-05-06T11:37:46Z" finished-at="2022-05-06T11:40:14Z">
+      <class name="loginTestCases.CorrectUserName">
+        <test-method status="PASS" signature="loginWithCorrectUserName(java.lang.String, java.lang.String)[pri:0, instance:loginTestCases.CorrectUserName@9629756]" name="loginWithCorrectUserName" duration-ms="78490" started-at="2022-05-06T17:07:46Z" data-provider="loginData" finished-at="2022-05-06T17:09:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithCorrectUserName -->
+        <test-method status="PASS" signature="loginWithCorrectUserName(java.lang.String, java.lang.String)[pri:0, instance:loginTestCases.CorrectUserName@9629756]" name="loginWithCorrectUserName" duration-ms="26698" started-at="2022-05-06T17:09:05Z" data-provider="loginData" finished-at="2022-05-06T17:09:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin12]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithCorrectUserName -->
+        <test-method status="PASS" signature="loginWithCorrectUserName(java.lang.String, java.lang.String)[pri:0, instance:loginTestCases.CorrectUserName@9629756]" name="loginWithCorrectUserName" duration-ms="24484" started-at="2022-05-06T17:09:32Z" data-provider="loginData" finished-at="2022-05-06T17:09:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithCorrectUserName -->
+        <test-method status="PASS" signature="loginWithCorrectUserName(java.lang.String, java.lang.String)[pri:0, instance:loginTestCases.CorrectUserName@9629756]" name="loginWithCorrectUserName" duration-ms="17538" started-at="2022-05-06T17:09:56Z" data-provider="loginData" finished-at="2022-05-06T17:10:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithCorrectUserName -->
+      </class> <!-- loginTestCases.CorrectUserName -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
